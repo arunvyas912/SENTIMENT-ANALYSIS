@@ -56,17 +56,13 @@ The notebook demonstrates:
 5. Execute all cells in order to see the output
 
 # 📸 Output Screenshot
-![Screenshot 2025-06-13 154416](https://github.com/user-attachments/assets/19e70e85-9bf8-4c4f-8fd8-60a6e1e4f3df)
+![Screenshot 2025-06-13 160628](https://github.com/user-attachments/assets/c90ac7b2-4e34-432f-a60c-4c7f8dcc352c)
+![Screenshot 2025-06-13 160647](https://github.com/user-attachments/assets/34ddb100-28df-4470-a6fd-c07121936912)
+![Screenshot 2025-06-13 160719](https://github.com/user-attachments/assets/9bafd8df-02a2-4951-8d5a-c837ed0429e4)
+![Screenshot 2025-06-13 160737](https://github.com/user-attachments/assets/c3322676-95b6-4305-91f8-d42aa07e9a44)
+![Screenshot 2025-06-13 160822](https://github.com/user-attachments/assets/ece7e95b-a831-4ab4-9da9-3e44f94e0347)
+![Screenshot 2025-06-13 160904](https://github.com/user-attachments/assets/b4ca3fae-c255-4fd9-a685-6775b948eef4)
 
-![Screenshot 2025-06-13 154433](https://github.com/user-attachments/assets/8d3e26b3-2a00-476e-8ec8-713243fadde1)
-
-![Screenshot 2025-06-13 154456](https://github.com/user-attachments/assets/627261e7-82b5-45bc-a65f-5b04a24f7381)
-
-![Screenshot 2025-06-13 154519](https://github.com/user-attachments/assets/328bd866-d2e4-4ec5-8caa-aaa60ff98de4)
-
-![Screenshot 2025-06-13 154622](https://github.com/user-attachments/assets/b9813b62-6558-412d-9098-6c24f6915544)
-
-![Screenshot 2025-06-13 154713](https://github.com/user-attachments/assets/7a4356b7-7ed5-4843-8def-af43ccfec9cf)
 
 
 
