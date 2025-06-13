@@ -57,10 +57,15 @@ The notebook demonstrates:
 
 # 📸 Output Screenshot
 ![Screenshot 2025-06-13 160628](https://github.com/user-attachments/assets/c90ac7b2-4e34-432f-a60c-4c7f8dcc352c)
+
 ![Screenshot 2025-06-13 160647](https://github.com/user-attachments/assets/34ddb100-28df-4470-a6fd-c07121936912)
+
 ![Screenshot 2025-06-13 160719](https://github.com/user-attachments/assets/9bafd8df-02a2-4951-8d5a-c837ed0429e4)
+
 ![Screenshot 2025-06-13 160737](https://github.com/user-attachments/assets/c3322676-95b6-4305-91f8-d42aa07e9a44)
+
 ![Screenshot 2025-06-13 160822](https://github.com/user-attachments/assets/ece7e95b-a831-4ab4-9da9-3e44f94e0347)
+
 ![Screenshot 2025-06-13 160904](https://github.com/user-attachments/assets/b4ca3fae-c255-4fd9-a685-6775b948eef4)
 
 
